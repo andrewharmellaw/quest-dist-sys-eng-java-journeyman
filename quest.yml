@@ -1,0 +1,23 @@
+* Journeyman (General)
+ - Algorithms and Data Structures
+ - Debuggers
+ - Distributed Systems for Fun and Profit
+ - Caching
+ - [8 Fallacies of Networked Computing]
+ - Domain Driven Design
+ - RESTful APIs
+ - Asynchronous Integration
+ - Databases: Normal Form (ADVANCED), Defining Tables and Schemas (ADVANCED), Tx Isolation Levels (ADVANCED)
+
+* Journeyman (Specific)
+ - Effective Java
+ - EIP Framework - Apache Camel
+ - More Build tools (Checkstyle, PMD, Findbugs, Mockito, etc.)
+ - Functional Java
+ - JMS
+ - Linux Containers (Docker)
+ - AWS (consuming services of)
+ - Setting up Jenkins build pipelines
+ - Setting up Github
+ - Setting up Artifactory
+ - Persistence - MongoDB (NoSQL, Document)
